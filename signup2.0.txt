@@ -1,0 +1,52 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign up</title>
+
+     <body background="bye.jfif"  style="background-repeat:no repeat; background-size:100%">
+
+
+    </head>
+
+<form action="thank you.html">
+<div class="reg" style="color:rgb(240, 240, 240)">
+
+
+        <h1>Course Sign Up Page</h1>
+        <h2>Please note:First Name,Last Name,Password and Email are required</h2></br></br>
+        <label>First Name:
+            <input type="text" name="" value=""placeholder="First Name">
+        
+        </label>
+        <label>Last Name:
+             <input type="text" name="" value=""placeholder="Last Name">
+        </label></br></br>
+        <label>E-mail:
+         <input type="email" name="" value=""placeholder="name@email.com"required>
+         </label>
+            <label>Password:
+                <input type="password" name="" value=""placeholder=""required>
+                </label></br></br></br></br>
+                
+                    <h3>Are you over the age of 18?</h3>
+                    <label>Yes:</label>
+                    <input type="radio" name="loc" value="">
+                </br>
+                <label>No:</label>
+                <input type="radio" name="loc" value="">
+                <h3>Do you have a Credit card or Paypal</h3>
+                <select name="stars">
+                    <option value="Credit card">Credit card</option>
+                    <option value="Pay pal">Pay pal</option>
+
+
+
+
+                </select></br></br></br></br>
+                <input type="submit" name="" value="Sign Up">
+                </form>
+</body>
+</html>
+

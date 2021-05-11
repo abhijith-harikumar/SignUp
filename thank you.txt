@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>THANK YOU</title>
+
+     <body background="thankyou.jpg"  style="background-repeat:no repeat; background-size:100%">
+
+
+    </head>
+</body>
+</html>
